@@ -22,20 +22,7 @@ A **MERN stack BookStore application** where users can register, log in, explore
 
 ---
 
-BookStore/
-│── backend/ # Express + MongoDB code
-│ ├── models/ # Mongoose schemas
-│ ├── routes/ # API routes
-│ ├── conn/ # Database connection
-│ └── app.js # Main server file
-│
-│── frontend/ # React app
-│ ├── src/
-│ │ ├── components/ # Reusable UI components
-│ │ ├── pages/ # AllBooks, Favourites, Login, Register
-│ │ ├── App.jsx
-│ │ └── index.jsx
-│ └── README.md
+<img width="602" height="511" alt="image" src="https://github.com/user-attachments/assets/dcfa9c1c-1acb-47f2-9623-55c2c0c1e81f" />
 
 
 
