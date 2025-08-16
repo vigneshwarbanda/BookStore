@@ -33,3 +33,29 @@ A **MERN stack BookStore application** where users can register, log in, explore
 ```bash
 git clone https://github.com/your-username/BookStore.git
 cd BookStore
+
+###2️⃣ Install dependencies
+```bash
+####Backend
+cd backend
+npm install
+
+####Frontend
+cd frontend
+npm install
+
+###3️⃣ Setup Environment Variables
+####Create a .env file inside the backend folder and add:
+```bash
+PORT=5000
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_secret_key
+
+###4️⃣ Run the Project
+####Start Backend
+nodemon app.js
+
+#### Start Frontend
+npm run dev 
+
+
